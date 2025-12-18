@@ -1,0 +1,11 @@
+# Ignore Data
+data/
+*.csv
+*.png
+*.jpg
+*.zip
+
+# Ignore System Files
+.DS_Store
+__pycache__
+.ipynb_checkpoints
